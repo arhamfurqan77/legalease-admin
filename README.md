@@ -1,1 +1,1 @@
-# Legalease Admin
+# legalease-admin
